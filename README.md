@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Andorid Perfermonace and Secuirty
 - 💬 Ask me about Android Archticture 
 - 📫 How to reach me: m.abdelsattarahmed@gmail.com, [Linkedin](https://www.linkedin.com/in/mabdelsattar1/).
-- 📖 Don't forget to follow me on  [Medium](https://m-sattar.medium.com/) 
+- 📖 Don't forget to follow me on  [Medium](https://mo-sattar.medium.com/) 
 
 ## &#x1f4c8; My GitHub Stats
 
